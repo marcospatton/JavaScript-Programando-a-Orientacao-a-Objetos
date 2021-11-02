@@ -22,3 +22,8 @@
 <li>Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos</li>
 <li>Tipos de valor e tipos de referência</li>
 <li>Alterando dinamicamente um objeto</li>
+<li>Diferenças entre null e undefined</li>
+<li>Aprofundando nos conceitos de referências a um espaço de memória</li>
+<li>Get e Set</li>
+<li>Melhor encapsulamento da classe</li>
+<li>Protegendo atributos sensíveis</li>
