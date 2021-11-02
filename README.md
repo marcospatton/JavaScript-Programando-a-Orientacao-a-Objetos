@@ -11,3 +11,8 @@
 <li>O que são atributos</li>
 <li>Instâcia/Objeto</li>
 <li>Operador new</li>
+<li>Criação de métodos</li>
+<li>Palavra chave this</li>
+<li>Encapsulamento</li>
+<li>Proposta de atributos privados</li>
+<li>Return e early return</li>
