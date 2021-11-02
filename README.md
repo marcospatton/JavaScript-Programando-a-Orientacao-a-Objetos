@@ -16,3 +16,9 @@
 <li>Encapsulamento</li>
 <li>Proposta de atributos privados</li>
 <li>Return e early return</li>
+<li>Package.json</li>
+<li>Modules</li>
+<li>import/export</li>
+<li>Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos</li>
+<li>Tipos de valor e tipos de referência</li>
+<li>Alterando dinamicamente um objeto</li>
