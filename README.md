@@ -4,7 +4,7 @@
 <li>Vscode;</li>
 <li>PowerShell;</li>
 <li>Node</li>
-
+<br><br>
 <p><b>O que aprendemos?</b></p><br>
 
 <li>Criando classes</li>
