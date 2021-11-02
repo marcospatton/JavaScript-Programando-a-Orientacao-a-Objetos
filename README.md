@@ -27,3 +27,7 @@
 <li>Get e Set</li>
 <li>Melhor encapsulamento da classe</li>
 <li>Protegendo atributos sensíveis</li>
+<li>Construtores</li>
+<li>Encapsulamento</li>
+<li>Atributos "readonly"</li>
+<li>Atributos estáticos</li>
